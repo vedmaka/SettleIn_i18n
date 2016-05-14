@@ -13,6 +13,8 @@
   "sil-card-form-section-tabs": "Tabs",
   "sil-card-form-tabs-stepbystep": "Step by Step",
   "sil-card-form-tabs-stepbystep-desc": "Please fill in each step individually in order of what needs to be done. Please keep each step to just one task to keep it as simple as possible.",
+  "sil-card-form-tabs-stepbystep-add-button": "Add step",
+
   "sil-card-form-tabs-documents": "Documents",
   "sil-card-form-tabs-documents-desc": "Please add the type of document, document name and a link to more information about the document. Documents can mean application forms, police checks, notary forms or personal identification forms.",
   "sil-card-form-tabs-documents-field-document-type": "Document type",
