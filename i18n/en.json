@@ -48,8 +48,10 @@
   "sil-card-form-section-inshort-forms-field-add-button": "Add form information",
 
   "sil-card-form-section-inshort-forms-link-application": "Link to application",
-  "sil-card-form-section-inshort-forms-link-total-cost": "Total cost (in local currency)",
-  "sil-card-form-section-inshort-forms-link-processing-time": "Processing Time: (time from applying)",
+  "sil-card-form-section-inshort-forms-link-total-cost": "Total cost ",
+  "sil-card-form-section-inshort-forms-link-total-cost-desc": "(in local currency)",
+  "sil-card-form-section-inshort-forms-link-processing-time": "Processing Time",
+  "sil-card-form-section-inshort-forms-link-processing-time-desc": "(time from applying)",
   "sil-card-form-section-inshort-forms-link-difficulty": "Difficulty",
 
   "sil-card-form-section-tips": "Tips",
