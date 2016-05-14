@@ -4,9 +4,11 @@
   },
 
   "settleinlocalizations-desc": "This extension provides default (English) localization strings for SettleIn project.",
+
   "sil-card-form-section-primary": "Primary information",
   "sil-card-form-primary-title": "Title",
   "sil-card-form-primary-country": "Country",
+  "sil-card-form-primary-categories": "Categories",
 
   "sil-card-form-section-tabs": "Tabs",
   "sil-card-form-tabs-stepbystep": "Step by Step",
