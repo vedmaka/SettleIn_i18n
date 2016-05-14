@@ -1,0 +1,57 @@
+{
+  "@metadata": {
+    "authors": []
+  },
+
+  "settleinlocalizations-desc": "This extension provides default (English) localization strings for SettleIn project.",
+  "sil-card-form-section-primary": "Primary information",
+  "sil-card-form-primary-title": "Title",
+  "sil-card-form-primary-country": "Country",
+
+  "sil-card-form-section-tabs": "Tabs",
+  "sil-card-form-tabs-stepbystep": "Step by Step",
+  "sil-card-form-tabs-stepbystep-desc": "Please fill in each step individually in order of what needs to be done. Please keep each step to just one task to keep it as simple as possible.",
+  "sil-card-form-tabs-documents": "Documents",
+  "sil-card-form-tabs-documents-desc": "Please add the type of document, document name and a link to more information about the document. Documents can mean application forms, police checks, notary forms or personal identification forms.",
+  "sil-card-form-tabs-documents-field-document-type": "Document type",
+  "sil-card-form-tabs-documents-field-document-name": "Document name",
+  "sil-card-form-tabs-documents-field-document-link": "Link (if applicable)",
+  "sil-card-form-tabs-documents-field-document-file": "File (optional)",
+  "sil-card-form-tabs-documents-field-document-add-button": "Add document",
+
+  "sil-card-form-tabs-costs": "Costs",
+  "sil-card-form-tabs-costs-desc": "Please list all costs, both direct (i.e. application cost) and indirect (i.e. certified copies of passport). Each service or charge should be its own item. Please keep costs in the local currency",
+  "sil-card-form-tabs-costs-field-item-or-service": "Item or Service",
+  "sil-card-form-tabs-costs-field-cost": "Cost",
+  "sil-card-form-tabs-costs-field-required": "Required",
+  "sil-card-form-tabs-costs-field-else": "Anything else we should know ?",
+  "sil-card-form-tabs-costs-field-add-button": "Add cost",
+
+  "sil-card-form-tabs-links": "Links",
+  "sil-card-form-tabs-links-desc": "At least one link to the exact page of a trustworthy website is needed to publish this page. Examples of a trustworthy website are: Government Website or a Large National Company (i.e. Geicko, Deutsche Bank, Allianz). Please ensure the link is to the exact page with the information to make it easier.",
+  "sil-card-form-tabs-links-field-website": "Website name",
+  "sil-card-form-tabs-links-field-links-to": "Links to",
+  "sil-card-form-tabs-links-field-type": "Type of Website",
+  "sil-card-form-tabs-links-field-link": "Link",
+  "sil-card-form-tabs-links-field-add-button": "Add link",
+
+  "sil-card-form-section-inshort": "In Short",
+  "sil-card-form-section-inshort-field-name": "What is the name of the Application:",
+  "sil-card-form-section-inshort-field-name-desc": "(i.e. Application to get Drivers License)",
+  "sil-card-form-section-inshort-forms": "Forms needed:",
+  "sil-card-form-section-inshort-forms-field-formname": "Form name",
+  "sil-card-form-section-inshort-forms-field-formid": "Form number (ID)",
+  "sil-card-form-section-inshort-forms-field-add-button": "Add form information",
+
+  "sil-card-form-section-inshort-forms-link-application": "Link to application",
+  "sil-card-form-section-inshort-forms-link-total-cost": "Total cost (in local currency)",
+  "sil-card-form-section-inshort-forms-link-processing-time": "Processing Time: (time from applying)",
+  "sil-card-form-section-inshort-forms-link-difficulty": "Difficulty",
+
+  "sil-card-form-section-tips": "Tips",
+  "sil-card-form-section-field-tip": "Tips",
+  "sil-card-form-section-field-tip-category": "Category",
+  "sil-card-form-section-field-tip-text": "Text",
+  "sil-card-form-section-field-tip-add-button": "Add Tip"
+
+}

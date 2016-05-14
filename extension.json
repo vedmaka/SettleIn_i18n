@@ -1,0 +1,33 @@
+{
+	"name": "SettleInLocalizations",
+	"version": "0.0.1",
+	"author": [
+		""
+	],
+	"url": "https://www.mediawiki.org/wiki/Extension:SettleInLocalizations",
+	"descriptionmsg": "settleinlocalizations-desc",
+	"license-name": "MIT",
+	"type": "other",
+	"AutoloadClasses": {
+        "SettleInLocalizations": "SettleInLocalizations.class.php",
+		"SettleInLocalizationsHooks": "SettleInLocalizations.hooks.php"
+	},
+	"config": {},
+	"callback": "SettleInLocalizationsHooks::onExtensionLoad",
+	"ExtensionMessagesFiles": {
+		"SettleInLocalizationsAlias": "SettleInLocalizations.i18n.alias.php"
+	},
+	"Hooks": {},
+	"MessagesDirs": {
+		"SettleInLocalizations": [
+			"i18n"
+		]
+	},
+	"ResourceModules": {},
+	"ResourceFileModulePaths": {
+		"localBasePath": "",
+		"remoteExtPath": "SettleInLocalizations"
+	},
+	"SpecialPages": {},
+	"manifest_version": 1
+}
