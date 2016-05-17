@@ -33,10 +33,10 @@
 
   "sil-card-form-tabs-links": "Links",
   "sil-card-form-tabs-links-desc": "At least one link to the exact page of a trustworthy website is needed to publish this page. Examples of a trustworthy website are: Government Website or a Large National Company (i.e. Geicko, Deutsche Bank, Allianz). Please ensure the link is to the exact page with the information to make it easier.",
-  "sil-card-form-tabs-links-field-website": "Website name",
+  "sil-card-form-tabs-links-field-website": "Website name:",
   "sil-card-form-tabs-links-field-links-to": "Links to",
   "sil-card-form-tabs-links-field-type": "Type of Website",
-  "sil-card-form-tabs-links-field-link": "Link",
+  "sil-card-form-tabs-links-field-link": "Link:",
   "sil-card-form-tabs-links-field-add-button": "Add link",
 
   "sil-card-form-section-inshort": "In Short",
@@ -58,6 +58,52 @@
   "sil-card-form-section-field-tip": "Tips",
   "sil-card-form-section-field-tip-category": "Category",
   "sil-card-form-section-field-tip-text": "Text",
-  "sil-card-form-section-field-tip-add-button": "Add Tip"
+  "sil-card-form-section-field-tip-add-button": "Add Tip",
+
+  "sil-card-template-action-edit": "Edit",
+  "sil-card-template-action-translate": "Translate",
+
+  "sil-card-template-tabs-step-by-step": "Step by Step",
+
+  "sil-card-template-tabs-documents": "Documents",
+  "sil-card-template-tabs-documents-field-type": "Type",
+  "sil-card-template-tabs-documents-field-file": "File",
+  "sil-card-template-tabs-documents-field-link": "Link",
+
+  "sil-card-template-tabs-costs": "Costs",
+  "sil-card-template-tabs-costs-field-cost": "Cost",
+  "sil-card-template-tabs-costs-field-required": "Required",
+  "sil-card-template-tabs-costs-field-comments": "Comments",
+
+  "sil-card-template-tabs-links": "Links",
+  "sil-card-template-tabs-links-field-links-to": "Links to",
+  "sil-card-template-tabs-links-field-type-of-website": "Type of website",
+  "sil-card-template-tabs-links-field-link": "Link",
+
+  "sil-card-template-action-share": "Share",
+  "sil-card-template-action-print": "Print",
+  "sil-card-template-action-add-to-watch": "Add to watchlist",
+  "sil-card-template-action-remove-from-watch": "Remove from watchlist",
+  "sil-card-template-action-comments": "Comments",
+
+  "sil-card-template-stat-created-by": "Created by",
+  "sil-card-template-stat-last-edited": "Last edited",
+  "sil-card-template-stat-edited-by": "Edited by",
+
+  "sil-card-template-title-in-short": "In Short",
+  "sil-card-template-field-application-name": "Application name",
+  "sil-card-template-field-forms-needed": "Forms needed",
+  "sil-card-template-field-link-to-application": "Link to application",
+  "sil-card-template-field-total-cost": "Total cost",
+  "sil-card-template-field-processing-time": "Processing time",
+  "sil-card-template-field-difficulty": "Difficulty",
+  "sil-card-template-title-tips": "Tips",
+  "sil-card-template-field-tip-type-process": "Process",
+  "sil-card-template-field-tip-type-applying": "Applying",
+  "sil-card-template-field-tip-type-saving-time": "Saving Time",
+  "sil-card-template-field-tip-type-saving-money": "Saving Money",
+  "sil-card-template-field-tip-type-other": "Other",
+
+  "sil-card-template-title-categories": "Related Categories"
 
 }
