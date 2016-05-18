@@ -1,0 +1,13 @@
+{
+  "@metadata": {
+    "authors": []
+  },
+
+  "settleinlocalizations-desc": "This extension provides default (English) localization strings for SettleIn project.",
+
+  "sil-card-form-section-primary": "Основная информация",
+  "sil-card-form-primary-title": "Название",
+  "sil-card-form-primary-country": "Страна",
+  "sil-card-form-primary-categories": "Категории"
+
+}
