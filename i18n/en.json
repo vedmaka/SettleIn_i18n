@@ -116,6 +116,18 @@
   "sil-search-template-result-empty": "Refine criterions and press 'Search' to receive results.",
   "sil-search-template-result-field-country": "Country",
   "sil-search-template-result-field-mod-date": "Modification date",
-  "sil-search-template-result-field-categories": "Categories"
+  "sil-search-template-result-field-categories": "Categories",
+
+  "sil-card-template-subtemplate-step-by-step-field-type": "Type",
+  "sil-card-template-subtemplate-step-by-step-field-link": "Link",
+  "sil-card-template-subtemplate-step-by-step-field-file": "File",
+
+  "sil-card-template-subtemplate-card-cost-field-cost": "Cost",
+  "sil-card-template-subtemplate-card-cost-field-comments": "Comments",
+  "sil-card-template-subtemplate-card-cost-field-required": "Required",
+
+  "sil-card-template-subtemplate-card-links-field-links-to": "Links to",
+  "sil-card-template-subtemplate-card-links-field-typeof": "Type of website",
+  "sil-card-template-subtemplate-card-links-field-link": "Link"
 
 }
