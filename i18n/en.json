@@ -106,6 +106,16 @@
   "sil-card-template-field-tip-type-saving-money": "Saving Money",
   "sil-card-template-field-tip-type-other": "Other",
 
-  "sil-card-template-title-categories": "Related Categories"
+  "sil-card-template-title-categories": "Related Categories",
+
+  "sil-search-form-field-title": "Title",
+  "sil-search-form-field-country": "Country",
+  "sil-search-form-field-categories": "Categories",
+  "sil-search-form-field-label-search": "Search",
+
+  "sil-search-template-result-empty": "Refine criterions and press 'Search' to receive results.",
+  "sil-search-template-result-field-country": "Country",
+  "sil-search-template-result-field-mod-date": "Modification date",
+  "sil-search-template-result-field-categories": "Categories"
 
 }
