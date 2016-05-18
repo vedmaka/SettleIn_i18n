@@ -92,12 +92,14 @@
 
   "sil-card-template-title-in-short": "In Short",
   "sil-card-template-field-application-name": "Application name",
-  "sil-card-template-field-forms-needed": "Forms needed",
+  "sil-card-template-field-forms-needed": "Forms needed:",
   "sil-card-template-field-link-to-application": "Link to application",
   "sil-card-template-field-total-cost": "Total cost",
   "sil-card-template-field-processing-time": "Processing time",
   "sil-card-template-field-difficulty": "Difficulty",
+
   "sil-card-template-title-tips": "Tips",
+  "sil-card-template-title-tips-no-tips": "No tips added yet.",
   "sil-card-template-field-tip-type-process": "Process",
   "sil-card-template-field-tip-type-applying": "Applying",
   "sil-card-template-field-tip-type-saving-time": "Saving Time",
