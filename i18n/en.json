@@ -137,6 +137,12 @@
   "sil-card-document-type-Other": "Other",
 
   "sil-card-cost-required-Yes": "Yes",
-  "sil-card-cost-required-No": "No"
+  "sil-card-cost-required-No": "No",
+
+  "sil-card-links-links-to-Application": "Application",
+  "sil-card-links-links-to-Process_information": "Process information",
+  "sil-card-links-links-to-Official_website": "Official website",
+  "sil-card-links-links-to-Tips": "Tips",
+  "sil-card-links-links-to-Forum": "Forum"
 
 }
