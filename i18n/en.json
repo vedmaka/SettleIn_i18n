@@ -163,6 +163,10 @@
   "sil-card-processing-time-value-4_months": "4 months",
   "sil-card-processing-time-value-6_months": "6 months",
   "sil-card-processing-time-value-9_months": "9 months",
-  "sil-card-processing-time-value-12_months": "12 months"
+  "sil-card-processing-time-value-12_months": "12 months",
+
+  "sil-card-difficulty-value-Hard": "Hard",
+  "sil-card-difficulty-value-Medium": "Medium",
+  "sil-card-difficulty-value-Easy": "Easy"
 
 }
