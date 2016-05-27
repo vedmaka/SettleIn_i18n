@@ -143,6 +143,11 @@
   "sil-card-links-links-to-Process_information": "Process information",
   "sil-card-links-links-to-Official_website": "Official website",
   "sil-card-links-links-to-Tips": "Tips",
-  "sil-card-links-links-to-Forum": "Forum"
+  "sil-card-links-links-to-Forum": "Forum",
+
+  "sil-card-links-website-type-Government_Website": "Government Website",
+  "sil-card-links-website-type-Commercial_Website": "Commercial Website",
+  "sil-card-links-website-type-Private _Website": "Private Website",
+  "sil-card-links-website-type-Other": "Other"
 
 }
