@@ -128,6 +128,12 @@
 
   "sil-card-template-subtemplate-card-links-field-links-to": "Links to",
   "sil-card-template-subtemplate-card-links-field-typeof": "Type of website",
-  "sil-card-template-subtemplate-card-links-field-link": "Link"
+  "sil-card-template-subtemplate-card-links-field-link": "Link",
+
+  "sil-card-document-type-Form": "Form",
+  "sil-card-document-type-Document": "Document",
+  "sil-card-document-type-Application": "Application",
+  "sil-card-document-type-Personal_Identification": "Personal Identification",
+  "sil-card-document-type-Other": "Other"
 
 }
