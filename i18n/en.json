@@ -134,6 +134,9 @@
   "sil-card-document-type-Document": "Document",
   "sil-card-document-type-Application": "Application",
   "sil-card-document-type-Personal_Identification": "Personal Identification",
-  "sil-card-document-type-Other": "Other"
+  "sil-card-document-type-Other": "Other",
+
+  "sil-card-cost-required-Yes": "Yes",
+  "sil-card-cost-required-No": "No"
 
 }
