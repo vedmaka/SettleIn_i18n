@@ -148,6 +148,21 @@
   "sil-card-links-website-type-Government_Website": "Government Website",
   "sil-card-links-website-type-Commercial_Website": "Commercial Website",
   "sil-card-links-website-type-Private_Website": "Private Website",
-  "sil-card-links-website-type-Other": "Other"
+  "sil-card-links-website-type-Other": "Other",
+
+  "sil-card-processing-time-value-Immediately": "Immediately",
+  "sil-card-processing-time-value-1_day": "1 day",
+  "sil-card-processing-time-value-3-5_days": "3-5 days",
+  "sil-card-processing-time-value-week": "week",
+  "sil-card-processing-time-value-2_weeks": "2 weeks",
+  "sil-card-processing-time-value-3_weeks": "3 weeks",
+  "sil-card-processing-time-value-4_weeks": "4 weeks",
+  "sil-card-processing-time-value-6_weeks": "6 weeks",
+  "sil-card-processing-time-value-2_months": "2 months",
+  "sil-card-processing-time-value-3_months": "3 months",
+  "sil-card-processing-time-value-4_months": "4 months",
+  "sil-card-processing-time-value-6_months": "6 months",
+  "sil-card-processing-time-value-9_months": "9 months",
+  "sil-card-processing-time-value-12_months": "12 months"
 
 }
