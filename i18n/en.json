@@ -167,6 +167,12 @@
 
   "sil-card-difficulty-value-Hard": "Hard",
   "sil-card-difficulty-value-Medium": "Medium",
-  "sil-card-difficulty-value-Easy": "Easy"
+  "sil-card-difficulty-value-Easy": "Easy",
+
+  "sil-card-tips-category-value-Process": "Process",
+  "sil-card-tips-category-value-Applying": "Applying",
+  "sil-card-tips-category-value-Saving_Money": "Saving Money",
+  "sil-card-tips-category-value-Saving_Time": "Saving Time",
+  "sil-card-tips-category-value-Other": "Other"
 
 }
