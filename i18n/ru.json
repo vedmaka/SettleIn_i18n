@@ -8,6 +8,171 @@
   "sil-card-form-section-primary": "Основная информация",
   "sil-card-form-primary-title": "Название",
   "sil-card-form-primary-country": "Страна",
-  "sil-card-form-primary-categories": "Категории"
+  "sil-card-form-primary-categories": "Категории",
+
+  "sil-card-form-section-tabs": "Секции",
+  "sil-card-form-tabs-stepbystep": "Шаг за шагом",
+  "sil-card-form-tabs-stepbystep-desc": "Заполните каждый шаг по отдельности. Старайтесь разделять процесс на максимально простые шаги.",
+  "sil-card-form-tabs-stepbystep-add-button": "Добавить шаг",
+
+  "sil-card-form-tabs-documents": "Документы",
+  "sil-card-form-tabs-documents-desc": "Пожалуйста добавьте тип документа, название и ссылку на информацию о документе. Например: заявления, справки, нотариальные формы или идентификационные формы.",
+  "sil-card-form-tabs-documents-field-document-type": "Тип документа",
+  "sil-card-form-tabs-documents-field-document-name": "Название документа",
+  "sil-card-form-tabs-documents-field-document-link": "Ссылка (необязательно)",
+  "sil-card-form-tabs-documents-field-document-file": "Файл (необязательно)",
+  "sil-card-form-tabs-documents-field-document-add-button": "Добавить документ",
+
+  "sil-card-form-tabs-costs": "Цены",
+  "sil-card-form-tabs-costs-desc": "Пожалуйста, укажите цены на прямые расходы (например, стоимость заявлений) и косвенные (напр. - копии документов). Пожалуйста, указывайте стоимость в местной валюте.",
+  "sil-card-form-tabs-costs-field-item-or-service": "Предмет или сервис",
+  "sil-card-form-tabs-costs-field-cost": "Цена",
+  "sil-card-form-tabs-costs-field-required": "Необходимо",
+  "sil-card-form-tabs-costs-field-else": "Дополнительная информация?",
+  "sil-card-form-tabs-costs-field-add-button": "Добавить цену",
+
+  "sil-card-form-tabs-links": "Ссылки",
+  "sil-card-form-tabs-links-desc": "Как минимум одна ссылка на достоверный сайт необходима для публикации. Примеры таких сайтов: Государственные сайты или крупные национальные компании. Пожалуйста, указывайте ссылку непосредственно на страницу с описанием.",
+  "sil-card-form-tabs-links-field-website": "Сайт:",
+  "sil-card-form-tabs-links-field-links-to": "Ссылается на",
+  "sil-card-form-tabs-links-field-type": "Тип сайта",
+  "sil-card-form-tabs-links-field-link": "Ссылка:",
+  "sil-card-form-tabs-links-field-add-button": "Добавить ссылку",
+
+  "sil-card-form-section-inshort": "Вкратце",
+  "sil-card-form-section-inshort-field-name": "Название заявления:",
+  "sil-card-form-section-inshort-field-name-desc": "(напр.: Заявление на получения водительских прав)",
+  "sil-card-form-section-inshort-forms": "Необходимые формы:",
+  "sil-card-form-section-inshort-forms-field-formname": "Название формы",
+  "sil-card-form-section-inshort-forms-field-formid": "Номер или код формы (ID)",
+  "sil-card-form-section-inshort-forms-field-add-button": "Добавить форму",
+
+  "sil-card-form-section-inshort-forms-link-application": "Ссылка на заявление",
+  "sil-card-form-section-inshort-forms-link-total-cost": "Общая стоимость ",
+  "sil-card-form-section-inshort-forms-link-total-cost-desc": "(в местной валюте)",
+  "sil-card-form-section-inshort-forms-link-processing-time": "Время обработки",
+  "sil-card-form-section-inshort-forms-link-processing-time-desc": "(с момента подачи заявки)",
+  "sil-card-form-section-inshort-forms-link-difficulty": "Сложность",
+
+  "sil-card-form-section-tips": "Советы",
+  "sil-card-form-section-field-tip": "Советы",
+  "sil-card-form-section-field-tip-category": "Категория",
+  "sil-card-form-section-field-tip-text": "Текст",
+  "sil-card-form-section-field-tip-add-button": "Добавить совет",
+
+  "sil-card-template-action-edit": "Редактировать",
+  "sil-card-template-action-translate": "Перевести",
+
+  "sil-card-template-tabs-step-by-step": "Шаг за шагом",
+
+  "sil-card-template-tabs-documents": "Документы",
+  "sil-card-template-tabs-documents-field-type": "Тип",
+  "sil-card-template-tabs-documents-field-file": "Файл",
+  "sil-card-template-tabs-documents-field-link": "Ссылка",
+
+  "sil-card-template-tabs-costs": "Цены",
+  "sil-card-template-tabs-costs-field-cost": "Цена",
+  "sil-card-template-tabs-costs-field-required": "Обязательно",
+  "sil-card-template-tabs-costs-field-comments": "Комментарии",
+
+  "sil-card-template-tabs-links": "Ссылки",
+  "sil-card-template-tabs-links-field-links-to": "Ссылается на",
+  "sil-card-template-tabs-links-field-type-of-website": "Тип сайта",
+  "sil-card-template-tabs-links-field-link": "Ссылка",
+
+  "sil-card-template-action-share": "Поделиться",
+  "sil-card-template-action-print": "Печать",
+  "sil-card-template-action-add-to-watch": "Наблюдать",
+  "sil-card-template-action-remove-from-watch": "Не наблюдать",
+  "sil-card-template-action-comments": "Комментарии",
+
+  "sil-card-template-stat-created-by": "Автор",
+  "sil-card-template-stat-last-edited": "Последний редактор",
+  "sil-card-template-stat-edited-by": "Изменено",
+
+  "sil-card-template-title-in-short": "Вкратце",
+  "sil-card-template-field-application-name": "Название заявления",
+  "sil-card-template-field-forms-needed": "Необходимые формы:",
+  "sil-card-template-field-link-to-application": "Ссылка на заявление",
+  "sil-card-template-field-total-cost": "Общая стоимость",
+  "sil-card-template-field-processing-time": "Время обработки",
+  "sil-card-template-field-difficulty": "Сложность",
+
+  "sil-card-template-title-tips": "Советы",
+  "sil-card-template-title-tips-no-tips": "Пока советов нет.",
+  "sil-card-template-field-tip-type-process": "Процесс",
+  "sil-card-template-field-tip-type-applying": "Подача",
+  "sil-card-template-field-tip-type-saving-time": "Ускорение",
+  "sil-card-template-field-tip-type-saving-money": "Дешевле",
+  "sil-card-template-field-tip-type-other": "Другое",
+
+  "sil-card-template-title-categories": "Связанные категории",
+
+  "sil-search-form-field-title": "Название",
+  "sil-search-form-field-country": "Страна",
+  "sil-search-form-field-categories": "Категории",
+  "sil-search-form-field-label-search": "Поиск",
+
+  "sil-search-template-result-empty": "Измените критерии поиска и нажмите 'Поиск' для получения результатов.",
+  "sil-search-template-result-field-country": "Страна",
+  "sil-search-template-result-field-mod-date": "Дата изменения",
+  "sil-search-template-result-field-categories": "Категории",
+
+  "sil-card-template-subtemplate-step-by-step-field-type": "Тип",
+  "sil-card-template-subtemplate-step-by-step-field-link": "Ссылка",
+  "sil-card-template-subtemplate-step-by-step-field-file": "Файл",
+
+  "sil-card-template-subtemplate-card-cost-field-cost": "Цена",
+  "sil-card-template-subtemplate-card-cost-field-comments": "Комментарии",
+  "sil-card-template-subtemplate-card-cost-field-required": "Обязательно",
+
+  "sil-card-template-subtemplate-card-links-field-links-to": "Ссылается на",
+  "sil-card-template-subtemplate-card-links-field-typeof": "Тип сайта",
+  "sil-card-template-subtemplate-card-links-field-link": "Ссылка",
+
+  "sil-card-document-type-Form": "Форма",
+  "sil-card-document-type-Document": "Документ",
+  "sil-card-document-type-Application": "Заявление",
+  "sil-card-document-type-Personal_Identification": "Идентификация",
+  "sil-card-document-type-Other": "Другое",
+
+  "sil-card-cost-required-Yes": "Да",
+  "sil-card-cost-required-No": "Нет",
+
+  "sil-card-links-links-to-Application": "Заявление",
+  "sil-card-links-links-to-Process_information": "Процесс",
+  "sil-card-links-links-to-Official_website": "Вебсайт",
+  "sil-card-links-links-to-Tips": "Советы",
+  "sil-card-links-links-to-Forum": "Форум",
+
+  "sil-card-links-website-type-Government_Website": "Государственный",
+  "sil-card-links-website-type-Commercial_Website": "Коммерческий",
+  "sil-card-links-website-type-Private_Website": "Персональный",
+  "sil-card-links-website-type-Other": "Другое",
+
+  "sil-card-processing-time-value-Immediately": "Моментально",
+  "sil-card-processing-time-value-1_day": "1 день",
+  "sil-card-processing-time-value-3-5_days": "3-5 дней",
+  "sil-card-processing-time-value-week": "неделя",
+  "sil-card-processing-time-value-2_weeks": "2 недели",
+  "sil-card-processing-time-value-3_weeks": "3 недели",
+  "sil-card-processing-time-value-4_weeks": "4 недели",
+  "sil-card-processing-time-value-6_weeks": "6 недель",
+  "sil-card-processing-time-value-2_months": "2 месяца",
+  "sil-card-processing-time-value-3_months": "3 месяца",
+  "sil-card-processing-time-value-4_months": "4 месяца",
+  "sil-card-processing-time-value-6_months": "6 месяцев",
+  "sil-card-processing-time-value-9_months": "9 месяцев",
+  "sil-card-processing-time-value-12_months": "12 месяцев",
+
+  "sil-card-difficulty-value-Hard": "Трудно",
+  "sil-card-difficulty-value-Medium": "Средне",
+  "sil-card-difficulty-value-Easy": "Легко",
+
+  "sil-card-tips-category-value-Process": "Процесс",
+  "sil-card-tips-category-value-Applying": "Заявление",
+  "sil-card-tips-category-value-Saving_Money": "Дешевле",
+  "sil-card-tips-category-value-Saving_Time": "Быстрее",
+  "sil-card-tips-category-value-Other": "Другое"
 
 }
