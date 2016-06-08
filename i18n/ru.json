@@ -60,6 +60,11 @@
   "sil-card-form-section-field-tip-text": "Текст",
   "sil-card-form-section-field-tip-add-button": "Добавить совет",
 
+  "sil-card-form-section-videos-title": "Видео",
+  "sil-card-form-section-videos-service-name": "Название сервиса",
+  "sil-card-form-section-videos-video-link": "Ссылка на видео",
+  "sil-card-form-section-videos-add-button": "Добавить видео",
+
   "sil-card-template-action-edit": "Редактировать",
   "sil-card-template-action-translate": "Перевести",
 
@@ -105,6 +110,10 @@
   "sil-card-template-field-tip-type-saving-time": "Ускорение",
   "sil-card-template-field-tip-type-saving-money": "Дешевле",
   "sil-card-template-field-tip-type-other": "Другое",
+  "sil-card-template-field-tip-no-tips-yet": "Пока нет советов в этой категории.",
+
+  "sil-card-template-field-videos-title": "Видео",
+  "sil-card-template-field-videos-no-videos": "Пока нет видео-материалов.",
 
   "sil-card-template-title-categories": "Связанные категории",
 
