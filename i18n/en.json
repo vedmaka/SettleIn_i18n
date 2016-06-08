@@ -60,6 +60,11 @@
   "sil-card-form-section-field-tip-text": "Text",
   "sil-card-form-section-field-tip-add-button": "Add Tip",
 
+  "sil-card-form-section-videos-title": "Videos",
+  "sil-card-form-section-videos-service-name": "Service name",
+  "sil-card-form-section-videos-video-link": "Video link",
+  "sil-card-form-section-videos-add-button": "Add video",
+
   "sil-card-template-action-edit": "Edit",
   "sil-card-template-action-translate": "Translate",
 
@@ -105,6 +110,10 @@
   "sil-card-template-field-tip-type-saving-time": "Saving Time",
   "sil-card-template-field-tip-type-saving-money": "Saving Money",
   "sil-card-template-field-tip-type-other": "Other",
+  "sil-card-template-field-tip-no-tips-yet": "No tips in this category yet",
+
+  "sil-card-template-field-videos-title": "Videos",
+  "sil-card-template-field-videos-no-videos": "No videos added yet.",
 
   "sil-card-template-title-categories": "Related Categories",
 
