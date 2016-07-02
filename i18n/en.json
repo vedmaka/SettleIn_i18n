@@ -8,6 +8,8 @@
   "sil-card-form-section-primary": "Primary information",
   "sil-card-form-primary-title": "Title",
   "sil-card-form-primary-country": "Country",
+  "sil-card-form-primary-state": "State",
+  "sil-card-form-primary-city": "City",
   "sil-card-form-primary-categories": "Categories",
 
   "sil-card-form-section-tabs": "Tabs",

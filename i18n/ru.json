@@ -8,6 +8,8 @@
   "sil-card-form-section-primary": "Основная информация",
   "sil-card-form-primary-title": "Название",
   "sil-card-form-primary-country": "Страна",
+  "sil-card-form-primary-state": "Штат",
+  "sil-card-form-primary-city": "Город",
   "sil-card-form-primary-categories": "Категории",
 
   "sil-card-form-section-tabs": "Секции",
